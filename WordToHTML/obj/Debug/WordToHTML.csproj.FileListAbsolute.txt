@@ -1,0 +1,10 @@
+c:\users\nisar\onedrive\documents\visual studio 2015\Projects\WordToHTML\WordToHTML\bin\Debug\WordToHTML.exe.config
+c:\users\nisar\onedrive\documents\visual studio 2015\Projects\WordToHTML\WordToHTML\bin\Debug\WordToHTML.exe
+c:\users\nisar\onedrive\documents\visual studio 2015\Projects\WordToHTML\WordToHTML\bin\Debug\WordToHTML.pdb
+c:\users\nisar\onedrive\documents\visual studio 2015\Projects\WordToHTML\WordToHTML\bin\Debug\DocumentFormat.OpenXml.dll
+c:\users\nisar\onedrive\documents\visual studio 2015\Projects\WordToHTML\WordToHTML\bin\Debug\OpenXmlPowerTools.dll
+c:\users\nisar\onedrive\documents\visual studio 2015\Projects\WordToHTML\WordToHTML\bin\Debug\System.IO.Packaging.dll
+c:\users\nisar\onedrive\documents\visual studio 2015\Projects\WordToHTML\WordToHTML\bin\Debug\System.Management.Automation.dll
+c:\users\nisar\onedrive\documents\visual studio 2015\Projects\WordToHTML\WordToHTML\obj\Debug\WordToHTML.csprojResolveAssemblyReference.cache
+c:\users\nisar\onedrive\documents\visual studio 2015\Projects\WordToHTML\WordToHTML\obj\Debug\WordToHTML.exe
+c:\users\nisar\onedrive\documents\visual studio 2015\Projects\WordToHTML\WordToHTML\obj\Debug\WordToHTML.pdb
